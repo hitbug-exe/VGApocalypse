@@ -1,6 +1,7 @@
 # VGApocalypse
 
-*Apocalypse has come and gone\n*
+*Apocalypse has come and gone*
+
 *We are just grabbing in the ashes*
 
 VGApocalypse is a basic VGA driver and printf implementation written in C, perfect for your apocalypse plan (not that we're anticipating an actual apocalypse, but hey, it never hurts to be prepared).
