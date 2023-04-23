@@ -12,7 +12,7 @@ To build VGApocalypse, simply run the following command:
 
   `gcc -c ports.h screen.h kernel.c ports.c screen.c -o kernel.o`
 
-This will compile vga.c into an object file vga.o, which you can then link with your C program.
+This will compile kernel.c into an object file kernel.o, which you can then link with your C program.
 
 # Disclaimer
 
